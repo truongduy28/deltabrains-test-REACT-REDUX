@@ -29,7 +29,7 @@ const LoginPage = () => {
 
     {
       label: "Password",
-      type: "text",
+      type: "password",
       placeholder: "...",
       name: "password",
       value: query.password,
