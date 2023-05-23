@@ -80,7 +80,7 @@ const EditPage = () => {
       return;
     }
     dispatch(editProduct(currentProduct));
-    toastSuccess("New product added successfully!!!");
+    toastSuccess("Products is updated successfully!!!");
     navigate("/");
     return;
   };
