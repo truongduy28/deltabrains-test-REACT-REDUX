@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "name": "iPhone 13 Pro",
+        "code": "IPHONE-13-PRO",
+        "manufactureYear": 2022,
+        "price": 1299,
+        "image": "https://halostore.com.vn/wp-content/uploads/2022/10/iphone-13-pro-max-thumbtz-650x650_dedc16a56bbf4b4a9c662d349c22fa26_master.webp",
+        "desc": "The iPhone 13 Pro is Apple's flagship smartphone with a powerful A15 Bionic chip, a stunning Super Retina XDR display, and an advanced triple-camera system. It offers exceptional performance, enhanced photography capabilities, and a premium design."
+      },
+      {
+        "name": "Samsung Galaxy S21 Ultra",
+        "code": "SAMSUNG-S21-ULTRA",
+        "manufactureYear": 2021,
+        "price": 1399,
+        "image": "https://clickbuy.com.vn/uploads/2022/02/avt-s20-ultra-black.png",
+        "desc": "The Samsung Galaxy S21 Ultra is a top-of-the-line smartphone featuring a large Dynamic AMOLED 2X display, a powerful Exynos 2100 or Snapdragon 888 processor, and a versatile quad-camera system. It offers a premium experience with excellent performance and advanced camera capabilities."
+      },
+      {
+        "name": "Google Pixel 6 Pro",
+        "code": "GOOGLE-PIXEL-6-PRO",
+        "manufactureYear": 2022,
+        "price": 999,
+        "image": "https://i.ebayimg.com/images/g/1FIAAOSwoPVkR7aS/s-l640.png",
+        "desc": "The Google Pixel 6 Pro is a flagship smartphone powered by Google's custom-designed Tensor chip. It features a high-refresh-rate OLED display, advanced computational photography capabilities, and seamless integration with Google services."
+      },
+      {
+        "name": "OnePlus 9 Pro",
+        "code": "ONEPLUS-9-PRO",
+        "manufactureYear": 2021,
+        "price": 899,
+        "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Morning%20mist-gallery.png",
+        "desc": "The OnePlus 9 Pro is a premium smartphone that combines powerful performance with a smooth 120Hz AMOLED display. It features Hasselblad-tuned cameras, Warp Charge fast charging, and a sleek design."
+      },
+      {
+        "name": "Xiaomi Mi 11",
+        "code": "XIAOMI-MI-11",
+        "manufactureYear": 2021,
+        "price": 799,
+        "image": "https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/x/i/xiaomi-mi-11-lite-5g-2_10.png",
+        "desc": "The Xiaomi Mi 11 is a flagship smartphone with a Qualcomm Snapdragon 888 processor, a vibrant AMOLED display, and a versatile triple-camera system. It offers high-end features and performance at a competitive price."
+      }
+    ]
+  }
+  
